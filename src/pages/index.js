@@ -12,7 +12,24 @@ const nextPage = "1";
 
 const IndexPage = () => (
   <>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+    <SEO
+      title="Geir Grevling"
+      keywords={[
+        `Gatsby Starter`,
+        `Benedicte Raae`,
+        `Lillian Raae-Vea`,
+        `Ola Vea`,
+        `DIY`,
+        `Fan Fiction`,
+        `audio book`,
+        `Children's Book`,
+        `Children's Picture Book`,
+        `Beatrix Potter`,
+        `gatsby`,
+        `application`,
+        `react`,
+      ]}
+    />
     <ul
       style={{
         background: `pink`,
